@@ -1,0 +1,6 @@
+Car_ID,Driver_ID,Type,Capacity,Model
+201,101,micro,4,Swift
+202,102,sedan,5,"Swift Dzire"
+203,103,sedan,5,Xcent
+204,104,SUV,7,Eritga
+205,105,SUV,7,Ertiga

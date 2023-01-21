@@ -1,0 +1,8 @@
+booking_id," Mode_of_payment"
+401,UPI
+402,CARD
+403,CASH
+404,"OLA MONEY"
+405,NULL
+406,CASH
+407,"PAYTM WALLET"
